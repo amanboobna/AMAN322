@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AMAN322
-- 👀 I’m interested in MERN stack development
-- 🌱 I’m currently pursuing my B.Tech in Computer Science from Manipal Institute of technology, Manipal
-- 📫 How to reach me: email- aman.boobna32@gmail.com
+Hi, I’m Aman Boobna
+I’m interested in MERN stack development
+I’m currently pursuing my M.S in Computer Science from New York University
+How to reach me: email- ab10465@nyu.edu
